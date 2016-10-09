@@ -10,9 +10,13 @@ L-System library for python and jupyter notebook
 # Requirements
 
 - Jupyter notebook
-- svgwrite
-- cairosvg
-- Pillow
+- [svgwrite](https://pypi.python.org/pypi/svgwrite)
+- [cairosvg](http://cairosvg.org/)
+- [Pillow](https://pillow.readthedocs.io/en/3.4.x/)
+
+# Acknowledgement
+
+- [aidiary](http://aidiary.hatenablog.com/entry/20131125/1385385271) for introducing L-System and showing examples.
 
 # License
 
